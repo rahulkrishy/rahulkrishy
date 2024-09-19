@@ -11,6 +11,11 @@ I document my tech learnings on GitHub using the CPT `(Concepts-Practice-Tasks)`
 
 Look out for exciting updates ahead and until then, always stay curious...Greets!✌🏻🚀
 
+---
+
+### Tech Stack
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
+
 
 <!---
 GitHub stats: https://github.com/anuraghazra/github-readme-stats
