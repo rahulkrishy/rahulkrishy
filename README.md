@@ -9,28 +9,8 @@ I document my tech learnings on GitHub using the CPT `(Concepts-Practice-Tasks)`
 Look out for exciting updates ahead and until then, always stay curious...Greets!✌🏻🚀
 
 
+
 ![rahulkrishy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkrishy&theme=chartreuse-dark&show_icons=true&&hide=issues,contribs)
 
 
-#### 📫 Connect with Me
-If you want to collaborate or discuss any interesting projects, feel free to reach out! <br/>
-Twitter: 
-LinkedIn:
 
----
-
-[![](https://visitcount.itsvg.in/api?id=rahulkrishy&label=visitors&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
-<!--
-**rahulkrishy/rahulkrishy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
