@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=750&color=2CF74C&width=435&lines=Hi%E2%9C%8C%F0%9F%8F%BB;I'm+Rahulkrishy%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rahulkrishy.rahulkrishy" alt="visitors"/>
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rahulkrishy.rahulkrishy)
 <!--
 **rahulkrishy/rahulkrishy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
