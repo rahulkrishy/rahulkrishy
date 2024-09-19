@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=750&color=2CF74C&width=435&lines=Hi!%E2%9C%8C%F0%9F%8F%BB;I'm+Rahulkrishy%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=750&color=2CF74C&center=true&vCenter=true&width=435&lines=Hi!%E2%9C%8C%F0%9F%8F%BB;I'm+Rahulkrishy%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 --
 
-### About me <br/>
+#### About me <br/>
 
 ![rahulkrishy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahulkrishy&theme=chartreuse-dark&show_icons=true&&hide=issues,contribs)
 
