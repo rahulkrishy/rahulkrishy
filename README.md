@@ -14,7 +14,10 @@ Look out for exciting updates ahead and until then, always stay curious...Greets
 ---
 
 ### Tech Stack
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/><img width="50" height="50" src="https://img.icons8.com/color/50/motherboard.png"/> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
+
+### Tools
+<img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img width="50" height="50" src="https://img.icons8.com/glyph-neue/50/github.png" alt="github"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 
 <!---
