@@ -21,7 +21,6 @@ Look out for exciting updates ahead and until then, always stay curious...Greets
 GitHub stats: https://github.com/anuraghazra/github-readme-stats
 --->
 
-
 ---
 
 <!---
