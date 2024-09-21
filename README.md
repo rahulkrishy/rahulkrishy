@@ -5,11 +5,11 @@ Readme Typing SVG: https://readme-typing-svg.herokuapp.com/demo/?pause=750&color
 
 Hi there! I'm [**Rahulkrishy**](https://github.com/rahulkrishy), a tech enthusiast passionate about embedded systems and programming. <br/>
 
-I love diving into both software and hardware, fusing them together to craft new ideas and innovative solutions. My goal is to develop future technologies that elevate the quality of life and contribute to the betterment of society.
+I love diving into both software and hardware, fusing them together to craft new ideas and innovative solutions. My goal is to develop technologies that elevate the quality of life and contribute to the betterment of society.
 
 I document my tech learnings on GitHub using the CPT `(Concepts-Practice-Tasks)` method, organizing my work into Concepts, Practices, and Tasks for structured learning. I hope it will guide you on your journey, tech explorers!
 
-Look out for exciting updates ahead and until then, always stay curious...Greets!✌🏻🚀
+Look out for exciting updates ahead and until then, always stay curious...Greets!✌🚀
 
 ---
 
